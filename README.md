@@ -3,9 +3,6 @@
 **Intern ID:** CITS6971
 **Intern Name:** Suhaan Gupta
 **Duration:** 4 Weeks
-**Project Name / Scope:** Diabetes Risk Assessment — a beginner-level data
-science project that analyzes patient health metrics to identify patterns
-associated with diabetes risk and builds a simple predictive model.
 
 ## Overview
 This project uses a synthetic, Pima-Indians-style dataset (public-dataset
