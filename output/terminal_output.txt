@@ -1,0 +1,5 @@
+DIABETES RISK ASSESSMENT - RUN LOG
+Rows after cleaning: 768
+Low-risk: 510 | High-risk: 258
+Model: Logistic Regression | Test Accuracy: 91.6%
+Top risk factor: Glucose (corr=0.616)
